@@ -16,10 +16,8 @@
 
 ## 
 
-<div style="text-align: center;">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
-  </a>
+<div align="center">
+  <img src="https://discord-readme-badge.vercel.app/api?id=723607955907281008" alt="My Discord">
 </div>
 
 <br/><br/>
@@ -200,6 +198,12 @@
     </td>
   </tr>
 </table>
+
+
+<br/><br/>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
