@@ -20,6 +20,12 @@
   <img src="https://discord.c99.nl/widget/theme-2/723607955907281008.png">
 </div>
 
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=skt5l0md1r7jcho7ellto3ykz&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=skt5l0md1r7jcho7ellto3ykz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile 2">
+  </a>
+</div>
+
 <br/><br/>
 
 <h1 align="center">🌟 Programming Languages </h1>
