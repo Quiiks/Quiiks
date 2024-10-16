@@ -16,6 +16,12 @@
 
 ## 
 
+<div style="text-align: center;">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
+</div>
+
 <br/><br/>
 
 <h1 align="center">🌟 Programming Languages </h1>
