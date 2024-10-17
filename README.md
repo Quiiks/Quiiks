@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/quiiks">
-    <img src="https://i.imgur.com/8hV3V5o.png" alt="quiiks" /></a>
+    <img src="https://i.imgur.com/j6mXX5x.gif" alt="quiiks" /></a>
 </p>
 
 <p align="center">
