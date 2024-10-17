@@ -1,8 +1,31 @@
 <img width=100% title="Greeting Words" alt="Quiiks" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:305595,0:305595&text=THANKS%20FOR%20VISITING&fontSize=42&fontAlignY=32&animation=twinkling"/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20,%20👋%20I'm%20Quiiks.&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
-</div>
+</div> -->
+
+<p align="center">
+  <a href="https://github.com/quiiks">
+    <img src="https://i.imgur.com/8hV3V5o.png" alt="quiiks" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/quiiks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=223B67&width=480&height=85&lines=Developer+for+less+than+one+year;Web+Developement%2C+and+MongoDB" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://codepen.io/quiiks"><img width="32px" alt="Codepen" title="Codepen" src="https://i.imgur.com/sKSYLqH.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/quiiks"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/ELu6vsP.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/723607955907281008" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/L6n4eyL.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/quiiks"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/QKQs5q2.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ☀️ Been part of this industry for less than one year <br/>
@@ -13,6 +36,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📚 Continuouly improving my skills <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=quiiks&style=for-the-badge&color=223b67" alt="GitHub Profile Views">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fquiiks&query=%24.stars&style=for-the-badge&label=STARS&color=223b67">
+<a href=""><img src="https://img.shields.io/github/followers/quiiks?color=223b67&style=for-the-badge" alt="quiiks"/></a>
+</div>
 
 ## 
 
