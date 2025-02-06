@@ -76,17 +76,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="65" height="65" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
       <br>Vue
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuetify" alt="icon" width="65" height="65" />
-      <br>Vuetify
-    </td>
   </tr>
 </table>
 
