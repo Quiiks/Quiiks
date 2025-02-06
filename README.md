@@ -82,32 +82,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
       <br>Vue
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=svelte" alt="icon" width="65" height="65" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=electron" alt="icon" width="65" height="65" />
-      <br>Electron
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vuetify" alt="icon" width="65" height="65" />
       <br>Vuetify
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-      <br>Sass
     </td>
   </tr>
 </table>
