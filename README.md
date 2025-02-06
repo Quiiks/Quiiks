@@ -90,10 +90,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
-      <br>ExpressJS
-    </td>
   </tr>
 </table>
 
@@ -110,14 +106,6 @@
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
         <br>MySQL
       </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
-        <br>SQLite
-      </td>
   </tr>
 </table>
 
@@ -129,14 +117,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="icon" width="65" height="65" />
       <br>Cloudflare
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
-      <br>Nginx
     </td>
   </tr>
 </table>
