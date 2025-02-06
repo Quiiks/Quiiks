@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/quiiks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=223B67&width=480&height=85&lines=Developer+for+less+than+one+year;Python%2C+and+JS" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=223B67&width=480&height=85&lines=Developer+for+less+than+one+year;Python+Developer%2C+and+JavaScript" /></a>
 </p>
 
 <!-- Social icons section -->
