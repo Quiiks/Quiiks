@@ -123,59 +123,40 @@
 
 <br/>
 
-<h1 align="center">🌟 Other Tools </h1>
+<h1 align="center">🌟 Other Tools</h1>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="65" height="65" />
-      <br>GitLab
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code icon" width="65" height="65" />
       <br>VS Code
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
-      <br>VS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
-      <br>Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=npm" alt="NPM icon" width="65" height="65" />
       <br>NPM
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=yarn" alt="icon" width="65" height="65" />
-      <br>Yarn
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" />
       <br>Prettier
     </td>
   </tr>
 </table>
 
+<br/><br/>
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quote" />
+  </a>
+</div>
 
 <br/><br/>
 
+<img width="100%" title="Footer Wave" alt="Footer Wave" src="https://capsule-render.vercel.app/api?type=waving&color=100:305595,0:305595&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=100:305595,0:305595&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
