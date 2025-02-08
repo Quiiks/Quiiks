@@ -42,89 +42,114 @@
 <br/><br/>
 
 <h1 align="center">🌟 Programming Languages </h1>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-    <p>JavaScript</p>
-  </div>
-  <div>
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-    <p>Python</p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <br>Python
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <h1 align="center">🌟 Front-End </h1>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="65" height="65" />
-    <p>Vue</p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
+        <br>Vue
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <h1 align="center">🌟 Back-End </h1>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
-    <p>Node.js</p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+        <br>Node.js
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <h1 align="center">🌟 Database </h1>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-    <p>MongoDB</p>
-  </div>
-  <div>
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-    <p>MySQL</p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<h1 align="center">🌟 Hosting/Cloud Services </h1>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="65" height="65" />
-    <p>Cloudflare</p>
-  </div>
-  <div>
-    <img src="https://media.discordapp.net/attachments/1328764945508204555/1337187802504232990/Adobe_Express_-_file_1.png" alt="IONOS" width="65" height="65" />
-    <p>IONOS</p>
-  </div>
-  <div>
-    <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="65" height="65" />
-    <p>Nginx</p>
-  </div>
+<h1 align="center">🌟 Hosting/Cloud Services</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare icon" width="65" height="65" />
+        <br>Cloudflare
+      </td>
+      <td align="center" width="96">
+        <img src="https://media.discordapp.net/attachments/1328764945508204555/1337187802504232990/Adobe_Express_-_file_1.png?ex=67a688af&is=67a5372f&hm=94afcd3c8d901f4d21424ffc8e9453d7188aec7e6d6a2c6d05bb2a9f7ca20abe&=" 
+          alt="IONOS icon" width="65" height="65" />
+        <br>IONOS
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX icon" width="65" height="65" />
+        <br>Nginx
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<h1 align="center">🌟 Other Tools </h1>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <p>GitHub</p>
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
-    <p>VS Code</p>
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="65" height="65" />
-    <p>NPM</p>
-  </div>
-  <div>
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
-    <p>Prettier</p>
-  </div>
+<h1 align="center">🌟 Other Tools</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code icon" width="65" height="65" />
+        <br>VS Code
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=npm" alt="NPM icon" width="65" height="65" />
+        <br>NPM
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" />
+        <br>Prettier
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/><br/>
