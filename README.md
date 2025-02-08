@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="NGINX icon" width="65" height="65" />
-      <br>NGINX
+      <br>Nginx
     </td>
   </tr>
 </table>
