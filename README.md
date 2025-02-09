@@ -67,6 +67,14 @@
         <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
         <br>Vue
       </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML icon" width="65" height="65" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS icon" width="65" height="65" />
+        <br>CSS
+      </td>
     </tr>
   </table>
 </div>
@@ -163,6 +171,7 @@
 <br/><br/>
 
 <img width="100%" title="Footer Wave" alt="Footer Wave" src="https://capsule-render.vercel.app/api?type=waving&color=100:305595,0:305595&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
