@@ -122,7 +122,7 @@
         <br>Cloudflare
       </td>
       <td align="center" width="96">
-        <img src="https://media.discordapp.net/attachments/1328764945508204555/1337187802504232990/Adobe_Express_-_file_1.png?ex=67a688af&is=67a5372f&hm=94afcd3c8d901f4d21424ffc8e9453d7188aec7e6d6a2c6d05bb2a9f7ca20abe&=" 
+        <img src="https://i.imgur.com/hKPIpWd.png" 
           alt="IONOS icon" width="65" height="65" />
         <br>IONOS
       </td>
