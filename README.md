@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/723607955907281008.png">
+  <img src="https://discord.c99.nl/widget/theme-1/723607955907281008.png">
 </div>
 
 <div align="center">
