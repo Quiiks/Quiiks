@@ -156,6 +156,8 @@
         <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" alt="Prettier icon" width="65" height="65" />
         <br>Prettier
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=apple" alt="iOS icon" width="65" height="65" />
         <br>iOS
