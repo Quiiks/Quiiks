@@ -100,10 +100,6 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
         <br>MySQL
       </td>
