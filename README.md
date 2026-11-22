@@ -46,11 +46,11 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
         <br>Python
       </td>
     </tr>
@@ -104,7 +104,7 @@
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
         <br>MySQL
       </td>
     </tr>
@@ -141,7 +141,7 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub icon" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="120">
@@ -153,7 +153,7 @@
         <br>NPM
       </td>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" alt="Prettier icon" width="65" height="65" />
         <br>Prettier
       </td>
     </tr>
