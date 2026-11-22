@@ -156,6 +156,18 @@
         <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" alt="Prettier icon" width="65" height="65" />
         <br>Prettier
       </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=apple" alt="iOS icon" width="65" height="65" />
+        <br>iOS
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows icon" width="65" height="65" />
+        <br>Windows
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux icon" width="65" height="65" />
+        <br>Linux
+      </td>
     </tr>
   </table>
 </div>
