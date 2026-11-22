@@ -16,11 +16,11 @@
 <p align="center">
   <a href="https://discord.com/users/723607955907281008" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/L6n4eyL.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://propnightrevival.online"><img width="32px" alt="Propnight Revival" title="Propnight Revival" src="assets/propnight.png"/></a>
+  <a href="https://propnightrevival.online"><img width="32px" alt="Propnight Revival" title="Propnight Revival" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/propnight.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://guns.lol/quiiks"><img width="32px" alt="guns.lol" title="guns.lol" src="assets/gunslol.png"/></a>
+  <a href="https://guns.lol/quiiks"><img width="32px" alt="guns.lol" title="guns.lol" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/gunslol.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://hayano.eu"><img width="32px" alt="Hayano" title="Hayano" src="assets/hayano.png"/></a>
+  <a href="https://hayano.eu"><img width="32px" alt="Hayano" title="Hayano" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/hayano.png"/></a>
 </p>
 
 <div align="center">
