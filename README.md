@@ -14,13 +14,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://codepen.io/quiiks"><img width="32px" alt="Codepen" title="Codepen" src="https://i.imgur.com/sKSYLqH.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/quiiks"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/ELu6vsP.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/723607955907281008" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/L6n4eyL.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/quiiks"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/QKQs5q2.png"/></a>
+  <a href="https://propnightrevival.online"><img width="32px" alt="Propnight Revival" title="Propnight Revival" src="assets/propnight.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://guns.lol/quiiks"><img width="32px" alt="guns.lol" title="guns.lol" src="assets/gunslol.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://hayano.eu"><img width="32px" alt="Hayano" title="Hayano" src="assets/hayano.png"/></a>
 </p>
 
 <div align="center">
