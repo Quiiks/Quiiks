@@ -43,7 +43,7 @@
 
 <h1 align="center">🌟 Programming Languages </h1>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
@@ -61,7 +61,7 @@
 
 <h1 align="center">🌟 Front-End </h1>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
@@ -83,7 +83,7 @@
 
 <h1 align="center">🌟 Back-End </h1>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
@@ -97,7 +97,7 @@
 
 <h1 align="center">🌟 Database </h1>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
@@ -115,7 +115,7 @@
 
 <h1 align="center">🌟 Hosting/Cloud Services</h1>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare icon" width="65" height="65" />
@@ -138,7 +138,7 @@
 
 <h1 align="center">🌟 Other Tools</h1>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub icon" width="65" height="65" />
