@@ -13,14 +13,13 @@
 </p>
 
 <!-- Social icons section -->
+<h3 align="center">My current projects</h3>
 <p align="center">
   <a href="https://discord.com/users/723607955907281008" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/L6n4eyL.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://propnightrevival.online"><img width="32px" alt="Propnight Revival" title="Propnight Revival" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/propnight.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://propdaygame.com"><img width="32px" alt="PROPDAY" title="PROPDAY" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/propday.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://guns.lol/quiiks"><img width="32px" alt="guns.lol" title="guns.lol" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/gunslol.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://hayano.eu"><img width="32px" alt="Hayano" title="Hayano" src="https://raw.githubusercontent.com/Quiiks/Quiiks/main/assets/hayano.png"/></a>
 </p>
