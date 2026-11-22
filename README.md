@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/quiiks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=223B67&center=true&vCenter=true&width=600&height=85&lines=Computer+Science+graduate;Front-End+Web+Dev+student" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=223B67&center=true&vCenter=true&width=600&height=85&lines=Computer+Science+graduate;Front-End+Web+Dev+student;Based+in+Belgium" />
   </a>
 </p>
 
