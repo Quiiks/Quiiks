@@ -14,7 +14,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <img alt="My current projects" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=100000&color=223B67&center=true&vCenter=true&repeat=false&width=260&height=30&lines=My+current+projects" />
+  <img alt="My current projects" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=100000&color=223B67&center=true&vCenter=true&repeat=false&width=280&height=30&lines=My+current+projects+%E2%86%93" />
 </p>
 <p align="center">
   <a href="https://discord.com/users/723607955907281008" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/L6n4eyL.png"/></a>
